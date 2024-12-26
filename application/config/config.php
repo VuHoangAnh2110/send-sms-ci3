@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://learnCI3.test/';
+$config['base_url'] = 'http://send-sms-ci3.test/';
 
 /*
 |--------------------------------------------------------------------------
